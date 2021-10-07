@@ -1,0 +1,60 @@
+
+  .wrapper1{
+    background-image: url('https://kiddihub.com/images/auth-bg.png'); 
+    background-size: cover;
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    .formLogin{
+        box-shadow: -1px 25px 59px -8px rgba(0,0,0,0.75);
+        background-color: whitesmoke;
+        width: 300px;
+        height: 300px;
+        border: 1px solid #cccccc;
+        border-radius: 50px;
+        padding: 50px;
+        margin:70px auto;
+        text-align: center;
+        h3{
+            font-size: 25px;
+            font-weight: 400;
+        
+        }
+  
+      .inputText{
+        outline: none;
+        border: none;
+        border-radius: 34px;
+        border: 1px solid #cccccc;
+        margin-top: 10px;
+        height: 35px;
+        width: 97%;
+        font-size: 17px;
+        padding: 0px 12px;
+      }
+      button{
+        margin-top: 50px;
+        width: 100%;
+        height: 50px;
+        background-color: #0e61b6;
+        outline: none;
+        border: none;
+        border-radius: 50px;
+        font-size: 21px;
+        color: whitesmoke;
+        margin-bottom: 5px;
+      }
+      button:hover {
+        background: #1aa978;
+        cursor: pointer;
+        transition: 0.4s;
+      }
+      a {
+        margin-top: 5px;
+      }
+      a:hover {
+        color: red;
+        text-decoration: underline;
+      }
+    }
+  }

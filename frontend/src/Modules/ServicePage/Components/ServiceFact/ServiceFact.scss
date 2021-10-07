@@ -1,0 +1,45 @@
+.service-fact{
+    margin : 10px 0px;
+    .fact-up{
+        border-left: 5px solid rgb(5, 105, 185);
+        background-color: rgb(81, 224, 81);
+        padding: 20px 0px;
+        width: 98%;
+        border-radius: 10px;
+        h1{
+            color: rgb(5, 105, 185);
+        }
+        .span-spn{
+            text-align: center;
+            font-style: italic;
+            font-weight: 600;
+        }
+    }
+    .fact-down{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        .fact-item{
+            width: 47%;
+            margin: 7px;
+            cursor: pointer;
+            background-color: white;
+            padding: 9px;
+            height: 150px;
+            border-radius: 5px;
+            .d-fDirectionRow{
+                display: flex;
+                flex-direction: row;
+                padding-bottom: 5px;
+                height: 50px;
+            }
+            h4{
+                padding-left: 60px;
+            }
+            
+        }
+        .fact-item:hover{
+            box-shadow: 3px 3px 3px;
+        }
+    }
+}

@@ -1,0 +1,28 @@
+.service-intro1{
+    font-family: -webkit-body;
+    .banner1{
+        h1{
+            color: rgb(5, 104, 185);
+            margin: 10px 0px;
+        }
+        .intro1{
+        display: flex;
+        // margin: 0px 20px 0px 0px;
+            .left-intro1{
+
+            }
+            .right-intro1{
+                h1{
+                    margin-top: 0px;
+                    margin-bottom: 10px ;
+                }
+                margin-left: 20px;
+                span{
+                    font-style: italic;
+                }
+            }
+        }
+        
+    }
+    
+}

@@ -1,0 +1,25 @@
+[
+    
+    {
+        "username" : "abcUserName",
+        "name" : "John Cena",
+        "mail" : "abc@gmail.com",
+        "role" : "Quản trị viên",
+        "active" : "Active"
+    },
+    {
+        "username" : "abcUserName1",
+        "name" : "John Cena1",
+        "mail" : "abc1@gmail.com",
+        "role" : "Biên tập viên",
+        "active" : "Non-Active"
+    },
+    {
+        "username" : "abcUserName2",
+        "name" : "John Cena2",
+        "mail" : "abc2@gmail.com",
+        "role" : "Người dùng",
+        "active" : "Active"
+    }
+
+]

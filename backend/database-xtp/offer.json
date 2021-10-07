@@ -1,0 +1,271 @@
+[
+    {
+        "_id" : "OFFER00001",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập",
+        "Time" : "15/7/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00001"
+    },
+    {
+        "_id" : "OFFER00002",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc",
+        "Time" : "10/7/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00001"
+    },
+    {
+        "_id" : "OFFER00003",
+        "NameOffer" : "Tri ân sau dịch covid",
+        "Time" : "15/7/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00001"
+    },{
+        "_id" : "OFFER00004",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 2",
+        "Time" : "15/6/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00002"
+    },
+    {
+        "_id" : "OFFER00005",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 2",
+        "Time" : "10/6/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00002"
+    },
+    {
+        "_id" : "OFFER00006",
+        "NameOffer" : "Tri ân sau dịch covid 2",
+        "Time" : "15/6/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00002"
+    },
+    {
+        "_id" : "OFFER00007",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 3",
+        "Time" : "15/5/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00001"
+    },
+    {
+        "_id" : "OFFER00008",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 3",
+        "Time" : "10/5/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00003"
+    },
+    {
+        "_id" : "OFFER00009",
+        "NameOffer" : "Tri ân sau dịch covid 3",
+        "Time" : "15/5/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00003"
+    },
+    {
+        "_id" : "OFFER00010",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 4",
+        "Time" : "15/4/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00004"
+    },
+    {
+        "_id" : "OFFER00011",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 4",
+        "Time" : "10/4/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00004"
+    },
+    {
+        "_id" : "OFFER00012",
+        "NameOffer" : "Tri ân sau dịch covid 4",
+        "Time" : "15/4/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00004"
+    },
+    {
+        "_id" : "OFFER00013",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 5",
+        "Time" : "15/3/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00005"
+    },
+    {
+        "_id" : "OFFER00014",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 5",
+        "Time" : "10/3/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00005"
+    },
+    {
+        "_id" : "OFFER00015",
+        "NameOffer" : "Tri ân sau dịch covid 5",
+        "Time" : "15/3/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00005"
+    },
+    {
+        "_id" : "OFFER00016",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 6",
+        "Time" : "15/2/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00006"
+    },
+    {
+        "_id" : "OFFER00017",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 6",
+        "Time" : "10/2/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00006"
+    },
+    {
+        "_id" : "OFFER00018",
+        "NameOffer" : "Tri ân sau dịch covid 6",
+        "Time" : "15/2/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00006"
+    },
+    {
+        "_id" : "OFFER00019",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 7",
+        "Time" : "15/1/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00007"
+    },
+    {
+        "_id" : "OFFER00020",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 7",
+        "Time" : "10/1/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00007"
+    },
+    {
+        "_id" : "OFFER00021",
+        "NameOffer" : "Tri ân sau dịch covid 7",
+        "Time" : "15/1/2021",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00007"
+    },
+    {
+        "_id" : "OFFER00022",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 8",
+        "Time" : "15/12/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00008"
+    },
+    {
+        "_id" : "OFFER00023",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 8",
+        "Time" : "10/12/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00008"
+    },
+    {
+        "_id" : "OFFER00024",
+        "NameOffer" : "Tri ân sau dịch covid 8",
+        "Time" : "15/12/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00008"
+    },
+    {
+        "_id" : "OFFER00025",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 9",
+        "Time" : "15/11/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00009"
+    },
+    {
+        "_id" : "OFFER00026",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 9",
+        "Time" : "10/11/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00009"
+    },
+    {
+        "_id" : "OFFER00027",
+        "NameOffer" : "Tri ân sau dịch covid 9",
+        "Time" : "15/11/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00009"
+    },
+    {
+        "_id" : "OFFER00028",
+        "NameOffer" : "Kỷ niệm 1 năm thành lập 10",
+        "Time" : "15/10/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00010"
+    },
+    {
+        "_id" : "OFFER00029",
+        "NameOffer" : "Sinh nhật chủ hiệu thuốc 10",
+        "Time" : "10/10/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "kỉ niệm",
+        "Type" : 2,
+        "Id_Pharmacy_Owner" : "PHAROW00010"
+    },
+    {
+        "_id" : "OFFER00030",
+        "NameOffer" : "Tri ân sau dịch covid 10",
+        "Time" : "15/10/2020",
+        "InforOffer" : "sjfermgnhnvjds,vdhjđfsv",
+        "Category" : "tri ân",
+        "Type" : 1,
+        "Id_Pharmacy_Owner" : "PHAROW00010"
+    }
+]

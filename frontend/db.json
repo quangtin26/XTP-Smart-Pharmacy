@@ -1,0 +1,50 @@
+{
+    "news": [
+        {
+            "id":"01",
+            "catagory":"Bệnh Lý",
+            "description":"Bệnh lao phổi : Nguyên nhân, triệu chứng, chẩn đoán và điều trị",
+            "title":
+                {
+                    "1":"Tổng quan Bệnh lao phổi",
+                    "2":"Nguyên nhân Bệnh lao phổi",
+                    "3":"Triệu chứng Bệnh lao phổi",
+                    "4":"Đường lây truyền Bệnh lao phổi",
+                    "5":"Đối tượng nguy cơ Bệnh lao phổi"
+                },
+            "content":
+                {
+                    "1":"Bệnh lao phổi là gì? Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                    "2":"Bệnh lao phổi là gì? Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                    "3":"Bệnh lao phổi là gì? Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                    "4":"Bệnh lao phổi là gì? Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                    "5":"Bệnh lao phổi là gì? Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác."
+                },
+            
+            "img":"https://top10hanoi.vn/wp-content/uploads/2018/11/top-10-nha-thuoc-gia-tot-va-chat-luong-nhat-quan-ha-dong-59474-1024x554.jpg",
+            "imgThumb":""
+        },
+        {
+            "id":"02",
+            "catagory":"Bệnh Lý",
+            "description":"Tê bì tay chân : Nguyên nhân, triệu chứng, chẩn đoán và điều trị",
+            "title":{
+                "1":"Tổng quan bệnh tê bì tay chân",
+                "2":"Nguyên nhân tê bì tay chân",
+                "3":"Triệu chứng tê bì tay chân",
+                "4":"Đường lây truyền tê bì tay chân",
+                "5":"Đối tượng nguy cơ tê bì tay chân"
+            },
+            "content":{
+                "1":"Bệnh tê bì tay chân là gì?Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                "2":"Bệnh tê bì tay chân là gì?Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                "3":"Bệnh tê bì tay chân là gì?Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                "4":"Bệnh tê bì tay chân là gì?Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác.",
+                "5":"Bệnh tê bì tay chân là gì?Tay chân bình thường sẽ dựa vào cảm giác để điều chỉnh những hoạt động như rút tay chân lại khi chạm phải vật nóng, điều chỉnh khi địa hình thay đổi. Nếu bạn bị tê tay chân thì sẽ gây giảm cảm giác và thậm chí năng hơn có thể gây mất cảm giác hoàn toàn.Tình trạng này có thể khởi phát rất nhẹ nhàng như tê rần ở các đầu ngón tay, có cảm giác như bị châm chích ở đầu ngón tay hoặc bị giảm cảm giác. Những triệu chứng này có thể ngày càng nặng hơn, lan dần lên phía bàn tay, cổ tay, cẳng tay, cánh tay… và có thể đi đến tình trạng mất hết cảm giác. Tê bì chân tay khi mang thai, tê bì chân tay ở người già là tình trạng rất phổ biến trong cộng đồng.Tình trạng có thể là tạm thời hoặc là triệu chứng của bệnh lý khác."
+            },
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlnPOz6XvxF2OIMJwxJ2_86lmUB0S0IufZA&usqp=CAU",
+            "imgThumb":""
+        }
+    ]
+    
+}

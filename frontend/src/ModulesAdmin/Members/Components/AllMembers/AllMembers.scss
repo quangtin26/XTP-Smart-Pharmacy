@@ -1,0 +1,85 @@
+.all-user{
+    position: relative;
+    .banner-user{
+        margin: 10px 0px;
+    }
+    .nav-filter-user{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .count-user{
+            display: flex;
+            width: 50%;
+            h5{
+                margin-right: 5px;
+            }
+            span{
+                margin-left: 10px;
+                padding-left: 10px;
+                border-left: 2px solid black;
+                color: rgb(23, 23, 247);
+            }
+        }
+        .find-user{
+            text-align: right;
+            width: 50%;
+            input{
+                padding: 5px;
+                margin-right : 5px;
+                width: 300px;
+            }
+        }
+    }
+    .action-user{
+        display: flex;
+        margin-top: 10px;
+        .action{
+            display: flex;
+            width: 200px;
+            
+            
+        }
+    }
+    .manage-user{
+        margin-top: 10px;
+        .table-user{
+            width: 100%;
+          }
+          .table-user ,th,tr,td{
+            border: 1px solid black;
+            text-align: center;
+            td{
+                padding: 14px;
+            }
+            th{
+              background-color: #73bde2;;
+              height: 30px;
+            }
+          }
+    }
+    option{
+        font-size: 15px;
+    }
+    .btn-width{
+        width: 50%;
+    }
+    .btn-props{
+        border-radius: 6px;
+        background-color: aqua;
+        cursor: pointer;
+    }
+    .full-width{
+        width: 100%;
+    }
+    .margin{
+        margin: 0px 15px;
+    }
+    .padding{
+        padding: 5px;
+    }
+    .btn-hover:hover{
+        background-color: red;
+        color: #fff;
+    }
+
+}

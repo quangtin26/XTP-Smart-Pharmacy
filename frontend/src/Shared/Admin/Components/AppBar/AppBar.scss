@@ -1,0 +1,11 @@
+.nav-admin{
+    height: 50px;
+    // position: fixed;
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    background: #37474F;
+    h1{
+        color: #fff;
+    }
+}

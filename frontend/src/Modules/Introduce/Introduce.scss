@@ -1,0 +1,354 @@
+body{
+    background-color: #ffffff;
+}
+.HeadLine{
+    padding: 50px 0 50px 0;
+    background-color: #22AE57;
+    color: #ffffff;
+    .headLineTitle{
+        margin: 0 147px;
+
+        h2{
+            font-size: 40px;
+            font-weight: 300;
+        }
+        p{
+            font-size: 21px;
+            font-weight: 300;
+        }
+    }   
+    .list_headline{
+        border: 1px dashed #ffffff;
+        border-radius: 5px;
+        margin: 20px 147px;
+        padding: 7px;
+        ul{
+            list-style-type: none;
+            li{
+                margin-bottom: 10px;
+            }
+        }
+    }
+    
+}
+
+.videoContact{
+    margin-top: 36px;
+    margin-left: -73px;
+}
+.btnHeadline{
+    text-align: center;
+    button{
+        font-size: 17px;
+        border: none;
+        padding: 13px;
+        color: #1B6F39;
+        border-radius: 10px;
+        cursor: pointer;
+        background-color:#ffffff;
+        &:hover{
+            background-color: #beb6b6;
+        }
+    }
+}
+
+
+//row 2 
+.statistic{
+    color: #7B7977;
+    margin: 75px 212px;
+    h2{
+        color: #2b2b2b;
+        font-size: 50px;
+        font-weight: 300;
+    }
+    .descStatiistic{
+        margin: 28px 0;
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .cardStatistic{
+        width: 200px;
+        display: flex;
+        .icon{
+            line-height: 50px;
+            i{
+                font-size: 40px;
+            }
+        }
+    }
+
+    
+   
+}
+.col-6{
+    width: 50%;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.jtf-content{
+    justify-content: space-around;
+}
+.row{
+    display: flex;
+   
+}
+.col-9{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contentBox{
+    
+    .box{
+        margin-bottom: 30px;
+        text-align: center;
+        line-height: 150px;
+        font-size: 20px;
+        color: #ffffff;
+        width: 200px;
+        height: 150px;
+        background-color: #23CB20;
+    }
+    p{
+        text-align: center;
+        width: 200px;
+    }
+    padding:0 5px;
+}
+.vision{
+    background-color: #22AE57;
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 300;
+    padding: 50px;
+    
+    h1{
+        font-size: 42px;
+        font-weight: 300;
+    }
+    .btnSercive{
+        .serviceBox{
+            display: flex;
+            font-size: 20px;
+        }
+        margin-top: 30px;
+        justify-content: space-between;
+    }
+}
+.diagram{
+
+    .diagramChart{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    height: 500px;
+    margin-top: 50px;
+    h1{
+        font-size: 40px;
+        font-weight: 300;
+        margin-bottom: 30px;
+    }
+    p{
+        width: 300px;
+        &:first-child{
+            margin-top: 13%;
+        }
+        &:last-child{
+            margin-top: 227px;
+        }
+        
+    }
+    .stick{
+        height: 390px;
+        width: 18px;
+        background-color: #22AE57 ;
+        position: relative;
+        .circle{
+            position: absolute;
+            width:40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: black;
+            left: -11px;
+            &:nth-child(1){
+                top:46px;
+
+            }
+            &:nth-child(2){
+                top:174px;
+                
+            }
+            &:nth-child(3){
+                bottom: 39px;
+                
+                
+            }
+        }
+    }
+}
+
+.service{
+    margin-top: 50px;
+    background-color: #f0f0f0;
+    h2{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 300;
+    }
+    .cardService{
+        .imgService{
+            width: 100%;
+            img{
+                width: 100%;
+            }
+        }
+        .contentService{
+            ul{
+                list-style-type: none;
+                li{
+                    margin-bottom: 5px;
+                    i{
+                        margin-right: 5px;
+                        color: #23CB20;
+                    }
+                }
+            }
+        }
+        .titleService{
+            font-size: 20px;
+            font-weight: 300;
+        }
+        border: 2px dashed #22AE57;
+        width: 300px;
+        margin: 20px auto;
+    }
+}
+
+.newsTalkAbout{
+    margin-top: 50px;
+    h2{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 300;
+    }
+}
+.customerTalkAbout{
+    margin-top: 50px;
+    h2{
+        text-align: center;
+        font-size: 40px;
+        font-weight: 300;
+        margin-bottom: 30px;
+    }
+    .cardTA{
+        display: flex;
+        .cardLogo{
+            width: 100px;
+            height: 100px;
+            img{
+                width: 100%;
+            }
+        }
+        .cardTitle{}
+        .cardText{}
+    }
+}
+.contact{
+    margin-top: 50px;
+
+    h2{
+        text-align: center;
+        font-size: 17px;
+    }
+    .bannerContact{
+        padding: 39px 0;
+        background-color: #22AE57;
+        color: white;
+        text-align: center;
+        h2{
+            font-size: 45px;
+            font-weight: 300;
+        }
+        p{
+            font-size: 21px;
+            font-weight: 300;
+        }
+        div{
+            i{
+                font-size: 34px;
+                margin-right: 5px;
+            }
+            span{
+                font-size: 34px;
+                font-weight: 300;
+            }
+        }
+    }
+}
+.author{
+    margin-top: 50px;
+    h2{
+        font-size: 40px;
+        font-weight: 300; 
+        margin-bottom: 30px;  
+    }
+    .cardAuthor{
+        text-align: center;
+        width: 227px;
+        background-color: #f0f0f0;
+        border: 1px solid #beb6b6;
+        img{
+            width: 100%;
+        }
+    }
+}
+.ContactForm{
+    margin-top: 100px;
+    justify-content: center;
+    .introContact{
+        width: 235px;
+        .logoContact{}
+        .titleContact{
+            font-weight: 700;
+            color: #23CB20;
+            font-size: 22px;
+        }
+        .textContact{
+            font-size: 17px;
+            font-weight: 300;
+        }
+    }
+    .formContact{
+        border: 1px solid #23CB20;
+        padding: 50px;
+        width: 267px;
+        .text{
+            height: 33px;
+            border: 1px solid #23CB20;
+            width: 100%;
+            font-size: 15px;
+            outline: none;
+            margin-bottom: 5px;
+        }
+        button{
+            background-color: #23CB20;
+            border: none;
+            width: 100%;
+            height: 37px;
+            font-size: 17px;
+            color: #ffffff;
+            margin-top: 12px;
+            cursor: pointer;
+            &:hover{
+                background-color: #74ce72;
+            }
+        }
+    }
+}
+
+
+
+
+

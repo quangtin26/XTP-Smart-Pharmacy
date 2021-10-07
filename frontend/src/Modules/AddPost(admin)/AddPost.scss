@@ -1,0 +1,55 @@
+.adAddPost{
+    display: flex;
+    .adAddPostLeft{
+      .advalueTitle{
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        select{
+          font-size: 15px;
+          width: 177px;
+        }
+        input{
+          width: 550px;
+          height: 30px;
+        }
+      }
+      .adPicDecrip{
+        margin-bottom: 10px;
+        display: flex;
+        justify-content: space-between;
+        .img{
+          width: 175px;
+          height: 104px;
+          border: 1px solid black;
+        }
+        .adInputDecrip{
+          textarea{
+            width: 99%;
+            height: 100%;
+          }
+          width: 553px;
+          height:104px;
+        }
+      }
+      .adstoreIMG{
+        margin-bottom: 10px;
+        width: 100%;
+        height: 300px;
+        border: 1px solid black;
+      }
+      padding : 10px;
+      width: 70%;
+      border-right: 1px solid black;
+    }
+    .adAppPostRight{
+      width: 30%;
+      padding: 20px;
+      .adlistCategory{
+        border:1px solid black;
+        height: 150px;
+        overflow-y: scroll;
+      }
+      
+    }
+  }

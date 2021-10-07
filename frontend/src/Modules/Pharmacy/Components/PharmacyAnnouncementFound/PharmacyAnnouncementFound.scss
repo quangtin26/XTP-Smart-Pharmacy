@@ -1,0 +1,76 @@
+
+        .breadcumbs{
+            background-color: white;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            margin-top: 10px;
+            align-items: center;
+        }
+        .breadcumbsFound{
+            background-color: white;
+            text-align: center;
+            padding: 5px;
+            border-radius: 5px;
+            margin-top: 10px;
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            box-shadow: 0 3px 3px rgb(0 0 0 / 13%);
+            height: 46px;
+            .found-announcement{
+                width: 85%;
+                text-align: start;
+                opacity: 0.7;
+
+            }
+            .sort-found{
+                width: 15%;
+                display: flex;
+                flex-direction: row;
+                justify-content: flex-end;
+                align-items: center;
+                padding-right: 10px;
+                font-weight: bold;
+                cursor: pointer;
+            }
+        }
+        .blockOptions-sort{
+            display: block;
+            background-color: #fff;
+            text-align: start;
+            border-radius: 6px;
+            padding: 5px;
+            /* width: 200px; */
+            max-height: 300px;
+            font-weight: bold;
+            cursor: pointer;
+            position: absolute;
+            box-shadow: 0 0 8px rgb(0 0 0 / 20%);
+            top: 120px;
+            right: 0;
+            z-index: 2;
+            option:hover {
+                background-color:  rgb(37 37 37 / 11%);
+            }
+            
+            option{
+                padding: 10px 0px 0px;
+                height: 30px;
+                align-items: center;
+                font-weight: bold;
+            }
+        }
+        .blockOptions-sort::before {
+            content: "";
+            width: 0;
+            height: 0;
+            position: absolute;
+            border: 12px solid transparent;
+            border-bottom-color: #fff;
+            top: -20px;
+            right: 15px;
+        }
+        .noneOptions-sort{
+            display: none;
+        }

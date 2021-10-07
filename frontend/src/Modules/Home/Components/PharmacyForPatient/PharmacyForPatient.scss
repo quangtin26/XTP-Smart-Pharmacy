@@ -1,0 +1,26 @@
+.for-patient-frame {
+    height: 100%;
+    background: url(https://img.freepik.com/free-vector/wavy-background-with-copy-space_52683-65230.jpg?size=626&ext=jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: solid 2px rgb(125 170 205 / 80%);
+    /* box-shadow: 3px 5px 8px 6px grey; */
+    color: #242323;
+}
+
+
+.patient-img {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    border: solid 2px #a6ac9b;
+    box-sizing: border-box;
+    border-radius: 5px;
+    // box-shadow: 3px 5px 8px 6px grey;
+}
+
+.cooperate-content {
+    box-shadow: 1px 1px 7px 3px #bac9e4;
+}

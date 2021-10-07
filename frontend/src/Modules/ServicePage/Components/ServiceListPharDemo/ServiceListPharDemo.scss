@@ -1,0 +1,36 @@
+.service-intro{
+    font-family: -webkit-body;
+    
+    .banner{
+        
+        .span-spn{
+            text-align: center;
+            font-style: italic;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        h1{
+            color: rgb(5, 104, 185);
+            margin: 10px 0px;
+        }
+        .intro{
+        display: flex;
+        // margin: 0px 20px 0px 0px;
+            .left-intro{
+
+            }
+            .right-intro{
+                h1{
+                    margin-top: 0px;
+                    margin-bottom: 10px ;
+                }
+                margin-left: 20px;
+                span{
+                    font-style: italic;
+                }
+            }
+        }
+        
+    }
+    
+}
